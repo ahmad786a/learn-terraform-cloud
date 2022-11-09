@@ -1,12 +1,13 @@
 terraform {
 
-  cloud {
-    organization = "organization-name"
+/*  cloud {
+    organization = "The-Clarity-Group"
 
     workspaces {
       name = "learn-terraform-cloud"
     }
   }
+*/
 
   required_providers {
     aws = {
